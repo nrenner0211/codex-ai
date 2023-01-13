@@ -76,7 +76,8 @@ const handleSubmit = async (e) => {
 
   // fetch data from server
 
-  const response = await fetch('http://localhost:5000', {
+  // server hosted with render.com
+  const response = await fetch('https://codex-ai-epuq.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'

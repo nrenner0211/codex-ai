@@ -25,6 +25,8 @@ If you want to make an app like this, visit [JavaScript Mastery](https://youtu.b
 - Node.js
 - Vite
 - [Open AI API](https://openai.com/api/)
+- Back end deployed with [Render](https://render.com/)
+- Front end deployed with [Vercel](https://vercel.com/)
 
 ## Installation
 
@@ -44,7 +46,7 @@ Run the command `npm start` in your terminal. You can then view the app on [http
 
 🔗 [Repository](https://github.com/nrenner0211/codex-ai)
 
-🔗 [Deployed](https://nrenner0211.github.io/codex-ai/)
+🔗 [Deployed](https://codex-ai-lovat.vercel.app/)
 
 ## Contact 📩
 
