@@ -1,0 +1,19 @@
+{
+  "name": "open_ai_codex",
+  "version": "1.0.0",
+  "description": "Codex is an app that interfaces with OpenAI API to provide brilliant answers to your questions.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "cd client && npm run dev && cd server && npm run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrenner0211/codex-ai.git"
+  },
+  "author": "Nicolette Renner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrenner0211/codex-ai/issues"
+  },
+  "homepage": "https://codex-ai-lovat.vercel.app/"
+}

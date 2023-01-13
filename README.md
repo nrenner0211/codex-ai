@@ -40,7 +40,7 @@ All NPM packages required for this application are already listed as dependencie
 
 ### Start Application
 
-Run the command `npm start` in your terminal. You can then view the app on [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
+From the root, run the command `npm run dev` in your terminal. You can then view the app on [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
 
 ## Links
 
